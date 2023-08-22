@@ -46,6 +46,7 @@ Puedes ver las `variables` que están siendo generadas escribiendo en la consola
 console.log(window.variables);
 /*
 {
+  
     includeCover: true, // if includeCover is true the algorithm should
     background: "https://images.unsplash.com/photo-1511974035430-5de47d3b95da", // this is the url of the image that will used as background for the profile cover
     avatarURL: "https://randomuser.me/api/portraits/women/42.jpg", // this is the url for the profile avatar
